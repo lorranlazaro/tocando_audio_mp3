@@ -1,7 +1,7 @@
 # Pasta do ambiente virtual
 .venv/
 
-# Arquivos do VSCode
+# Arquivos do Cursor
 .cursor/
 
 # Pastas de exercícios e testes
