@@ -1,0 +1,13 @@
+# Pasta do ambiente virtual
+.venv/
+
+# Arquivos do VSCode
+.cursor/
+
+# Pastas de exercícios e testes
+src/desafios/
+src/testes/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
